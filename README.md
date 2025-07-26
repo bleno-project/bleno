@@ -3,19 +3,24 @@
 
 ### Build Leader Network (BLENO)
 
-### What´s is BLENO?
+### WHAT´S IS BLENO?
 
 Bleno Network is the *Build Leader Network* an independent chain to build new leaders,</br>
 and these leaders build hosts, all in one ecosystem through the bleno protocol, </br>
 each leader will communicate with their hosts through the protocol, </br>
 forming a large family.</br>
 
+Each leader will be responsible for their hosts, and for recruiting new hosts for their guild, </br>
+where everyone will receive valuable rewards for becoming an increasingly larger guild, </br>
+the larger the guild, the greater the reward. </br>
+
+#### NOTE
 <b>The Bleno protocol will use Proof of Authority (POA) consensus, </br>
 to validate transactions on the Bleno Network.</b> </br>
 [learn more about POA here](https://en.wikipedia.org/wiki/Proof_of_authority) </br>
 [follow the project on twitter](https://x.com/BlenoNetwork) 
 
-#### Features </br>
+#### FEATURES </br>
 - Airdrop </br>
 - Stake </br>
 - Game </br>
@@ -24,6 +29,6 @@ to validate transactions on the Bleno Network.</b> </br>
 - Reward for Loyalty </br>
 
 
-### Roadmap
+### ROADMAP
 
 <img src='rdmp.png' width='300' height='300'  alt="Project's logo" />
