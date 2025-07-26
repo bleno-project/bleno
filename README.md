@@ -10,6 +10,10 @@ and these leaders build hosts, all in one ecosystem through the bleno protocol, 
 each leader will communicate with their hosts through the protocol, </br>
 forming a large family.</br>
 
+The Bleno protocol will use Proof of Authority (POA) consensus, </br>
+to confirm transactions on the Bleno Network.
+[follow the project on twitter](https://x.com/BlenoNetwork) 
+
 #### Features </br>
 - Airdrop </br>
 - Stake </br>
@@ -17,7 +21,7 @@ forming a large family.</br>
 - Leader Guild </br>
 - Smart Contracts </br>
 - Reward for Loyalty </br>
-[follow the project on twitter](https://x.com/BlenoNetwork) 
+
 
 ### Roadmap
 
