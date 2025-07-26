@@ -1,4 +1,5 @@
-# <<<<< WELCOME >>>>>                                           <img src='logo.png' width='500' height='500'  alt="Project's logo" />
+# <<<<< WELCOME >>>>>                                           
+<img src='logo.png' width='300' height='300'  alt="Project's logo" />
 
 # Build Leader Network (BLENO)
 
