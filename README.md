@@ -11,6 +11,6 @@ each leader will communicate with their hosts through the protocol, </br>
 forming a large family.</br>
 [follow the project on twitter](https://x.com/BlenoNetwork) 
 
-# Rodmap
+# Roadmap
 
 <img src='rdmp.png' width='300' height='300'  alt="Project's logo" />
