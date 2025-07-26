@@ -19,15 +19,29 @@ the larger the guild, the greater the reward. </br>
 to validate transactions on the Bleno Network.</b> </br>
 [learn more about POA here](https://en.wikipedia.org/wiki/Proof_of_authority) </br>
 [follow the project on twitter](https://x.com/BlenoNetwork) 
+[BUY BLENO BSC TOKEN here](https://four.meme/token/0x1d351d70571852b41d27a2c0405685a468664444)
 
 #### FEATURES </br>
 - Airdrop </br>
 - Stake </br>
+- Guild Reward </br>
 - Game </br>
 - Leader Guild </br>
 - Smart Contracts </br>
 - Reward for Loyalty </br>
+- Governance</br>
 
+### PROJECT STATUS
+
+- BSC Token ✅
+- Twitter ✅
+- Github ✅
+- Telegram ❌
+- Website ❌
+- BlockChain ❌
+- Explorer ❌
+- MarketCap ❌
+- Exchange ❌
 
 ### ROADMAP
 
