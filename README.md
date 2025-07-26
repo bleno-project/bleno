@@ -10,8 +10,8 @@ and these leaders build hosts, all in one ecosystem through the bleno protocol, 
 each leader will communicate with their hosts through the protocol, </br>
 forming a large family.</br>
 
-##### The Bleno protocol will use Proof of Authority (POA) consensus, </br>
-to confirm transactions on the Bleno Network. </br>
+<b>The Bleno protocol will use Proof of Authority (POA) consensus, </br>
+to confirm transactions on the Bleno Network.</b> </br>
 [follow the project on twitter](https://x.com/BlenoNetwork) 
 
 #### Features </br>
