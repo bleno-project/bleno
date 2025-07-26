@@ -11,7 +11,8 @@ each leader will communicate with their hosts through the protocol, </br>
 forming a large family.</br>
 
 <b>The Bleno protocol will use Proof of Authority (POA) consensus, </br>
-to confirm transactions on the Bleno Network.</b> </br>
+to validate transactions on the Bleno Network.</b> </br>
+[learn more about POA here](https://en.wikipedia.org/wiki/Proof_of_authority)
 [follow the project on twitter](https://x.com/BlenoNetwork) 
 
 #### Features </br>
