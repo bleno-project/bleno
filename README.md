@@ -1,4 +1,5 @@
-# <<<<< WELCOME >>>>> 
+# <<<<< WELCOME >>>>>                                           <img src='logo.png' width='600' alt="Project's logo" />
+
 # Build Leader Network (BLENO)
 
 # What´s is BLENO?
