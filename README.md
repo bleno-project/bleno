@@ -9,6 +9,7 @@ Bleno Network is the *Build Leader Network* an independent chain to build new le
 and these leaders build hosts, all in one ecosystem through the bleno protocol, 
 each leader will communicate with their hosts through the protocol, 
 forming a large family.
+[follow the project on twitter](https://x.com/BlenoNetwork) 
 
 # Rodmap
 
