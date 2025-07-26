@@ -18,7 +18,7 @@ the larger the guild, the greater the reward. </br>
 <b>The Bleno protocol will use Proof of Authority (POA) consensus, </br>
 to validate transactions on the Bleno Network.</b> </br>
 [learn more about POA here](https://en.wikipedia.org/wiki/Proof_of_authority) </br>
-[follow the project on twitter](https://x.com/BlenoNetwork) 
+[follow the project on twitter](https://x.com/BlenoNetwork) </br>
 [BUY BLENO BSC TOKEN here](https://four.meme/token/0x1d351d70571852b41d27a2c0405685a468664444)
 
 #### FEATURES </br>
