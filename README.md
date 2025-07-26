@@ -1,9 +1,9 @@
 # <<<<< WELCOME >>>>>                                           
 <img src='logo.png' width='200' height='200'  alt="Project's logo" />
 
-# Build Leader Network (BLENO)
+### Build Leader Network (BLENO)
 
-# What´s is BLENO?
+### What´s is BLENO?
 
 Bleno Network is the *Build Leader Network* an independent chain to build new leaders,</br>
 and these leaders build hosts, all in one ecosystem through the bleno protocol, </br>
@@ -11,6 +11,6 @@ each leader will communicate with their hosts through the protocol, </br>
 forming a large family.</br>
 [follow the project on twitter](https://x.com/BlenoNetwork) 
 
-# Roadmap
+### Roadmap
 
 <img src='rdmp.png' width='300' height='300'  alt="Project's logo" />
