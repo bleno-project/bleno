@@ -12,7 +12,7 @@ forming a large family.</br>
 
 <b>The Bleno protocol will use Proof of Authority (POA) consensus, </br>
 to validate transactions on the Bleno Network.</b> </br>
-[learn more about POA here](https://en.wikipedia.org/wiki/Proof_of_authority)
+[learn more about POA here](https://en.wikipedia.org/wiki/Proof_of_authority) </br>
 [follow the project on twitter](https://x.com/BlenoNetwork) 
 
 #### Features </br>
